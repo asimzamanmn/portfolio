@@ -1,0 +1,85 @@
+body{
+    background-color: #3aafa9;
+}
+.port {
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  float: left;
+}
+.ul1 {
+    list-style-type: none;
+    position: relative;
+}
+.li1{
+
+  float: right;
+  padding: 20px;
+  
+
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 5px;
+}
+li a {
+    color: #DEF1F2;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    float: left;
+}
+
+.name {
+    padding: 250px;
+    color: #feffff;
+    font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  float: left;
+}
+li a:hover{
+    color: black;
+}
+#asim {
+    color: black;
+}
+.skills {
+    padding: 200px;
+    padding-left: 30px;
+    color: #DEF1F2;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    float: left;
+}
+.skills h2{
+    color: black;
+}
+
+.contact {
+    padding: 200px;
+    padding-left: 30px;
+    color: #DEF1F2;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    float: left;
+}
+.contact h2{
+    color: black;
+}
+button {
+    background-color: #5db4b0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    float: left;
+}
+button:hover{
+    background-color: bisque;
+    
+}
